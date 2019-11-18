@@ -48,4 +48,11 @@ La API para Boleta Electrónica, tiene por Finalidad el poder generar ventas des
 <br>
 <br><h3><b>RETORNO DE DATOS DESDE LA API</b></h3>
 <br>
-<br>ss
+<br>Si la operación fue exitosa, se retornará un valor entero, el cual corresponderá al folio de boleta electrónica generada.
+<br>Se recomienda que la aplicación cliente al momento de recibir el folio de la boleta, lo almacene  y deje asociado a la venta realizada en su sistema propio.
+<br>
+<br><h3><b>NOTAS:</b></h3>
+<br>-Al momento de generar la boleta, enviará un mail al Emisor a modo de respaldo.
+<br>-Al momento de generar la boleta, si se ingresó el mail, se enviará copia del mail al mismo.
+<br>-En el caso que si se requiera generar trazabilidad con los clientes, es oblitario informar la información del cliente, en este caso el mismo rut del cliente será utilizado como identificador.
+<br>-Si el cliente ya tiene correo en la ficha del sistema, no es necesario informar el mail en el envío de datos.
