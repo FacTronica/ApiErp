@@ -1,4 +1,4 @@
-# ApiErp
+# ApiERP FACTRONICA
 Integración de Aplicaciones Externas con ERP Factronica
 
 ApiERP permite que aplicaciones externas puedan comunicarse con el Sistema ERP FacTronica.
