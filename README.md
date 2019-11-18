@@ -13,7 +13,7 @@ ApiERP permite que aplicaciones externas puedan comunicarse con el Sistema ERP F
 <br>-Proveedores
 <br>-Trabajadores
 <br>-Facturas de Venta
-<br>-Boletas de Venta (<a href="">Ver Documentación</a>)
+<br>-Boletas de Venta (<a href="https://github.com/FacTronica/ApiErp/blob/master/ApiBoletaVenta">Ver Documentación</a>)
 <br>-Notas de Venta
 <br>
 <br><b>NOTAS:</b>
