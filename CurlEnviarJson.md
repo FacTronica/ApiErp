@@ -1,7 +1,7 @@
 # CURL Enviar Datos Json
 
 <br>$data = json_decode($json); 
-<br>$url = "http://www.factronica.cl/api/ventas_documentos_boletas/index.php";    
+<br>$url = "http://www.factronica.cl/api/ventas_documentos_boletas/index.php";
 <br>$curl = curl_init($url);
 <br>curl_setopt($curl, CURLOPT_HEADER, false);
 <br>curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
