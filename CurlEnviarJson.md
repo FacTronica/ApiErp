@@ -11,3 +11,4 @@
 <br>$json_response = curl_exec($curl);
 <br>$status = curl_getinfo($curl, CURLINFO_HTTP_CODE);
 <br>curl_close($curl);
+<br>echo "FolioBoleta=".$json_response; 
