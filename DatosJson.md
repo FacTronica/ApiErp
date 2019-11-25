@@ -1,17 +1,17 @@
 # Ejemplo de Datos en formato Json
 
-$json = '[
-    {
-        "TOKEN": "ABC123ZXC",
-        "TOTAL": "1190",
-        "CORREO":"correo@cliente.cl",
-        "RUT":"11222333-4",
-        "IDCONDVENTA":"1",
-        "IDMEDIOPAGO":"1",
-        "TIMEVCTO":"1234567891",
-        "IDVENDEDOR":"1",
-        "IDITEM":"1",
-        "OBS":"VENTA EN TERRENO"        
-    }
-]';
+<br>$json = '[
+<br>    {
+<br>        "TOKEN": "ABC123ZXC",
+<br>        "TOTAL": "1190",
+<br>        "CORREO":"correo@cliente.cl",
+<br>        "RUT":"11222333-4",
+<br>        "IDCONDVENTA":"1",
+<br>        "IDMEDIOPAGO":"1",
+<br>        "TIMEVCTO":"1234567891",
+<br>        "IDVENDEDOR":"1",
+<br>        "IDITEM":"1",
+<br>        "OBS":"VENTA EN TERRENO"        
+<br>    }
+<br>]';
 
