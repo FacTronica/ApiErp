@@ -11,5 +11,4 @@
 <br>        "IDVENDEDOR":"1",
 <br>        "IDITEM":"1",
 <br>        "OBS":"VENTA EN TERRENO"        
-<br>    }]';
-
+}]';
