@@ -54,5 +54,4 @@ La API para Boleta Electrónica, tiene por Finalidad el poder generar ventas des
 <br><h3><b>NOTAS:</b></h3>
 <br>-Al momento de generar la boleta, enviará un mail al Emisor a modo de respaldo.
 <br>-Al momento de generar la boleta, si se ingresó el mail, se enviará copia del mail al mismo.
-<br>-En el caso que si se requiera generar trazabilidad con los clientes, es oblitario informar la información del cliente, en este caso el mismo rut del cliente será utilizado como identificador.
 <br>-Si el cliente ya tiene correo en la ficha del sistema, no es necesario informar el mail en el envío de datos.
